@@ -1,3 +1,6 @@
+(it has tiny problems but im so over it 😫)
+
+
 # 📘 پروژه React - Habit Tracker & Focus Timer
 
 ## 🎯 معرفی پروژه
@@ -67,7 +70,7 @@
 # 🗂 صفحات پروژه
 
 ## 🏠 صفحه داشبورد (`/`)
-<img src="dashboard.png" width="300" alt="dashboard">
+<img src="dashboard.png" width="700" alt="dashboard">
 شامل:
 
 ### ⏱️ تایمر تمرکز
@@ -95,7 +98,7 @@
 ---
 
 ## 📝 صفحه مدیریت عادت‌ها (`/habits`)
-<img src="habits.png" width="300" alt="habits">
+<img src="habits.png" width="700" alt="habits">
 شامل:
 
 ### ➕ فرم افزودن عادت
@@ -129,7 +132,7 @@ text-decoration: line-through;
 ---
 
 ## 📊 صفحه آمار (`/analytics`)
-<img src="analytics.png" width="300" alt="analytics">
+<img src="analytics.png" width="700" alt="analytics">
 نمایش:
 
 - تعداد کل
@@ -155,7 +158,7 @@ text-decoration: line-through;
 ---
 
 ## ❌ صفحه 404
-<img src="notfound.png" width="300" alt="notfound">
+<img src="notfound.png" width="700" alt="notfound">
 برای مسیرهای نامعتبر:
 
 ```text
@@ -381,7 +384,7 @@ useNavigate
 ---
 
 # 📱 طراحی واکنش‌گرا (Responsive)
-<img src="responsive.png" width="300" alt="responsive">
+<img src="responsive.png" width="700" alt="responsive">
 
 استفاده از:
 
